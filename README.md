@@ -1,2 +1,0 @@
-# website
-Taylor's website
