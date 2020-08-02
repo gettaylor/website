@@ -188,6 +188,27 @@ img {
 	max-width: 21px;
 	margin-right: 5px;
 }
+.open_in_slack {
+  padding: 8px 14px 9px;
+  font-size: 15px;
+  color: #fff;
+  background: #007a5a;
+  transition: all 75ms ease-in-out;
+  line-height: 1.2rem;
+  font-weight: 900;
+  user-select: none;
+  cursor: pointer;
+  text-shadow: none;
+  border: none;
+  border-radius: .25rem;
+  box-shadow: none;
+  position: relative;
+  display: inline-block;
+  vertical-align: bottom;
+  text-align: center;
+  white-space: nowrap;
+  margin: 0;
+}
 .mask {
 	overflow: hidden;
 	position: relative;
