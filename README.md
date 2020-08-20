@@ -9,4 +9,4 @@ Taylor is an open source project, at this time is only available through [Taylor
 Taylor is a non binary, non gender Slack bot that can be installed in any Slack workspace. 
 Taylor will send alerts to any users who have used a term that is not inclusive and provides and alternative to their message.
 
-![Taylor's response](assets/Response_from_Taylor.png)
+![Taylor's response](images/Response_from_Taylor.png)
