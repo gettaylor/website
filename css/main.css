@@ -72,11 +72,12 @@ a {
 .text-center {
   text-align: center;
 }
-.images{
+/* .images img{
   padding-top: 25px;
-}
+} */
 img {
-	max-width: 100%;
+  max-width: 100%;
+  padding-top: 25px;
 }
 /*grid*/
 .col-1,
