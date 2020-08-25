@@ -21,7 +21,7 @@
 .nav-link {
   font-size: 19px;
   line-height: 44px;
-  text-decoration: none;
+  text-decoration: underline;
   color: inherit;
   display: inline-block;
   margin: 0 15px;
@@ -49,6 +49,9 @@
 	line-height: 1.8;
 	font-weight: 400;
 }
+.link{
+  text-decoration: underline;
+}
 .paragraph {
   font-size: 19px;
   line-height: 1.8;
@@ -68,6 +71,9 @@ a {
 }
 .text-center {
   text-align: center;
+}
+.images{
+  padding-top: 25px;
 }
 img {
 	max-width: 100%;
@@ -146,7 +152,7 @@ img {
 	max-width: 470px;
 }
 .section {
-  padding: 100px 0;
+  padding: 50px 0;
   overflow: hidden;
   position: relative;
 }
