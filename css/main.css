@@ -26,6 +26,9 @@
   display: inline-block;
   margin: 0 15px;
 }
+.main-logo {
+  padding-bottom: 15px;
+}
 
 .logo img {
   height: 44px;
@@ -62,6 +65,9 @@ a {
   color: inherit;
   text-decoration: none;
 }
+h2 {
+  padding-top: 20px;
+}
 .span {
 	font-size: 15px;
 	line-height: 1.5;
@@ -75,6 +81,10 @@ a {
 }
 .images {
   padding-top: 25px;
+}
+.footer-logo{
+  width: 30px;
+  height: 30px
 }
 img {
 	max-width: 100%;
